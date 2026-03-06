@@ -19,6 +19,7 @@ while n>0:
 print("Number of even digits is: ",ev)
 print("Number of odd digits is: ",od)
 '''
+'''
 n = int(input("Enter a number: "))
 lar = 0
 while n>0:
@@ -26,3 +27,4 @@ while n>0:
         lar = n%10
     n//=10
 print(lar)
+'''

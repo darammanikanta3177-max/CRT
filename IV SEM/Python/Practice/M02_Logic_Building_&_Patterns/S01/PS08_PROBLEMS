@@ -1,3 +1,4 @@
+'''
 arr = list(map(int,input("Enter the elements of the array: ").split()))
 inc = True
 dec = True
@@ -10,3 +11,4 @@ if inc or dec:
     print("The array is monotonic") 
 else:
     print("The array is not monotonic")
+    '''
